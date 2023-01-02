@@ -1,0 +1,1 @@
+{"name":"Local: 737","url":"c:\\Users\\84395\\Desktop\\ptit\\737.cpp","tests":[{"id":1664696937704,"input":"2\n5 2\n10 4 5 15 20\n4 2\n-12 34 56 7","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\84395\\Desktop\\ptit\\737.cpp","group":"local","local":true}

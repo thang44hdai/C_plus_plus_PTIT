@@ -1,0 +1,1 @@
+{"name":"Local: 307","url":"c:\\Users\\84395\\Desktop\\ptit\\307.cpp","tests":[{"id":1663084195533,"input":"2\nabc ab ab ab abcd\nab abc\naaa xyz ab zzz abc dd dd abc\nxyz dd ttt sas cdc","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\84395\\Desktop\\ptit\\307.cpp","group":"local","local":true}
